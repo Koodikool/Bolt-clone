@@ -32,6 +32,11 @@ nav a:hover {
     display: flex;
 }
 
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
 .grow {
     flex-grow: 1;
 }
@@ -124,4 +129,15 @@ p.large {
     color: white;
     padding: 0;
     text-decoration: underline;
+}
+
+.footer a {
+    padding-left: 0;
+    padding-top: 4px;
+}
+
+.footer .logo {
+    width: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
