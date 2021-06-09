@@ -27,3 +27,11 @@ nav img {
 nav a:hover {
     background-color: #e9eaee;
 }
+
+.flex {
+    display: flex;
+}
+
+.grow {
+    flex-grow: 1;
+}
