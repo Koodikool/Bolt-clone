@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    font-family: Arial;
+    color: #2f313f;
 }
 
 a {
@@ -20,4 +22,8 @@ nav img {
     padding-right: 20px;
     padding-bottom: 10px;
     padding-left: 30px;
+}
+
+nav a:hover {
+    background-color: #e9eaee;
 }
