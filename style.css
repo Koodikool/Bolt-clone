@@ -51,6 +51,11 @@ nav a:hover {
     color: white;
 }
 
+.bg-blue {
+    background-color: #4f5cd1;
+    color: white;
+}
+
 h1.huge {
     font-size: 72px;
     font-weight: 700;
