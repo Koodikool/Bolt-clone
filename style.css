@@ -82,9 +82,9 @@ p.large {
     width: 33vw;
 }
 
-.pane-padding {
-    padding: 20px;
-}
+    .pane-padding {
+        padding: 60px 20px;
+    }
 
 .pill {
     background-color: white;
