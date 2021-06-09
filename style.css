@@ -35,3 +35,13 @@ nav a:hover {
 .grow {
     flex-grow: 1;
 }
+
+.app-store {
+    height: 40px;
+}
+
+.play-store {
+    vertical-align: top;
+    height: 60px;
+    margin-top: -10px;
+}
