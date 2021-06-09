@@ -72,3 +72,15 @@ p.large {
 .pane-padding {
     padding: 20px;
 }
+
+.pill {
+    background-color: white;
+    color: blue;
+    text-decoration: underline;
+    border: none;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 22px 40px;
+    border-radius: 100px;
+    margin: 30px 0px
+}
