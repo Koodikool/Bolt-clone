@@ -55,6 +55,15 @@ h1.huge {
     font-size: 72px;
     font-weight: 700;
 }
+
 p.large {
     font-size: 18px;
+}
+
+.vw50 {
+    width: 50vw;
+}
+
+.pane-padding {
+    padding: 20px;
 }
