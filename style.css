@@ -45,3 +45,8 @@ nav a:hover {
     height: 60px;
     margin-top: -10px;
 }
+
+.bg-green {
+    background-color: rgb(46, 184, 117);
+    color: white;
+}
