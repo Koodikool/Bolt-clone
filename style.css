@@ -56,6 +56,10 @@ nav a:hover {
     color: white;
 }
 
+.bg-light-green {
+    background-color: rgb(217, 253, 229);
+}
+
 h1.huge {
     font-size: 72px;
     font-weight: 700;
@@ -93,4 +97,13 @@ p.large {
     height: 140px;
     width: 140px;
     vertical-align: bottom;
+}
+
+.popout-image {
+    width: 50vw;
+    margin-top: -180px;
+}
+
+.huge-padding {
+    padding: 92px 0;
 }
