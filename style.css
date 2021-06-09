@@ -14,3 +14,10 @@ a {
 nav {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
+
+nav img {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
